@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-with-postgresql",
+  "version": "1.0.0",
+  "description": "Nodejs development with postgreSQL using Sequelize ORM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSultanBaig/NodeJs-with-PostgreSQL.git"
+  },
+  "author": "Aman Sultan Baig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanSultanBaig/NodeJs-with-PostgreSQL/issues"
+  },
+  "homepage": "https://github.com/AmanSultanBaig/NodeJs-with-PostgreSQL#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
